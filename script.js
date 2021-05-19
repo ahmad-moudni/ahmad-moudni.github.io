@@ -1,4 +1,4 @@
-const whoami = ["Ahmad Moudni", "a Programmer", "a Data Scientist", "an AI Engineer", "an Amateur Web develope"];
+const whoami = ["Ahmad Moudni", "a Programmer", "a Data Scientist", "an AI Engineer", "an Amateur Web developer"];
 let index = 0;
 let word = 0;
 const target = document.querySelector("#typing");
